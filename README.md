@@ -1,40 +1,14 @@
-# Desafio de Lógica de Programação ##
+# Desafio 10 dias de Lógica de Programação ##
 
-## Aulas 10 a 14 – Tipos Primitivos
-*	10: Convenções de variáveis
-*	11: Declaração e tamanho em memória
-*	12: Casting
-*	13: Strings
-*	14: Exercício
+## Dia 1: Introdução a Variáveis e Tipos Primitivos Básicos - 08-10-2025.
+### Teoria
+Variáveis são como caixas onde guardamos informações no computador. Cada caixa tem um nome (identificador) e armazena um valor. As convenções de nomenclatura são regras para nomear variáveis de forma legível, como camelCase (usado em Java, JavaScript, C#) ou snake_case (usado em Python).
 
-## Aulas 15 a 19 – Operadores
-*	15: Aritméticos
-*	16: Relacionais
-*	17: Lógicos AND
-*	18: Lógicos OR
-*	19: Atribuição
+### Tipos Primitivos definem a natureza do valor que uma variável pode armazenar. Os mais básicos são:
 
-## Aulas 20 a 26 – Estruturas Condicionais
-*	20: IF
-*	21: ELSE IF
-*	22: Operador ternário
-*	23: Tabela Verdade e exercício
-*	24: Resolução do exercício
-*	25: Switch
-*	26: Switch exercício
-
-## Aulas 27 a 31 – Estruturas de Repetição
-*	27: While, do while, for
-*	28: Exercício for
-*	29: Break
-*	30: Exercício Break
-*	31: Continue
-
-## Aulas 32 a 38 – Arrays
-*	32: Arrays pt 01
-*	33: Arrays pt 02
-*	34: Arrays pt 03
-*	35: Foreach
-*	36: Arrays Multidimensionais pt 01
-*	37: Foreach multidimensional
-*	38: Inicialização multidimensional
+    • Inteiros: Números inteiros, sem casas decimais (ex: 10, -5, 0).
+    • Decimais (ou Ponto Flutuante): Números com casas decimais (ex: 3.14, -0.5).
+### Exercícios
+    1. Idade e Altura: Declare uma variável para armazenar sua idade (inteiro) e outra para sua altura em metros (decimal). Imprima os dois valores na tela.
+    2. Soma Simples: Crie duas variáveis inteiras, numero1 e numero2, com valores de sua escolha. Crie uma terceira variável, soma, que armazene a soma das duas primeiras. Imprima o resultado.
+    3. Área de um Retângulo: Declare duas variáveis, base e altura, para um retângulo. Calcule a área (base * altura) e armazene em uma variável area. Imprima o valor da área.
