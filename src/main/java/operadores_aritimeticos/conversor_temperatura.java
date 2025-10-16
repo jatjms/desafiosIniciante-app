@@ -11,7 +11,7 @@ public class conversor_temperatura {
 		Scanner temperatura = new Scanner(System.in);
 		double c,f;
 		
-		System.out.println("");
+		System.out.println("Informe a temperatura atual em Celsius.");
 		c = temperatura.nextDouble();
 		
 		f = (c*1.8) + 32;
